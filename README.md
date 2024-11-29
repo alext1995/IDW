@@ -7,3 +7,6 @@ Once unzipped, the dataset is in the same format as the well-known MVTec dataset
 
 The dataset also works with the anomaly detection library VisionAD: https://github.com/alext1995/VisionAD, and the MultiCore algorithm: https://github.com/alext1995/MultiCore.
 
+# Published at BMVC24
+
+Published at the British Machine Vision Conference 2024 in Glasgow. 
